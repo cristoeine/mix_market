@@ -9,7 +9,7 @@ You can check the full version on [my figma](https://www.figma.com/file/2r0d5ahf
 <a href="https://www.figma.com/file/2r0d5ahfAzmbIaLP5F70Pt/Project-UX?type=design&node-id=0%3A1&mode=design&t=LmaEM1rftGUAPfYc-1"><img src="home.png"  width="30%" height="40%"></a>
 
 <br>
-There are few steps to take before we make the high fidelity design of  *mix market* app.
+There are few steps to take before we make the high fidelity design of <em>mix market</em> app.
 
 
 ### The Problem
