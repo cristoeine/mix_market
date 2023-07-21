@@ -1,14 +1,12 @@
-<img src="mix%20market%20logo.png"  width="20%" height="10%">
-<br>
 
-# MIX MARKET
+# 🛒 MIX MARKET
 
 ---
-
+<img src="mix%20market%20logo.png"  width="20%" height="10%"><br>
 This is my UX course project I did with my team back then when I was in university.
 You can check the full version on [my figma](https://www.figma.com/file/2r0d5ahfAzmbIaLP5F70Pt/Project-UX?type=design&node-id=0%3A1&mode=design&t=LmaEM1rftGUAPfYc-1).
 
-<a href="[http://google.com.au/](https://www.gatsbyjs.com/docs/](https://www.figma.com/file/2r0d5ahfAzmbIaLP5F70Pt/Project-UX?type=design&node-id=0%3A1&mode=design&t=LmaEM1rftGUAPfYc-1)"><img src="home.png"  width="30%" height="40%"></a>
+<a href="https://www.figma.com/file/2r0d5ahfAzmbIaLP5F70Pt/Project-UX?type=design&node-id=0%3A1&mode=design&t=LmaEM1rftGUAPfYc-1"><img src="home.png"  width="30%" height="40%"></a>
 
 <br>
 There are few steps to take before we make the high fidelity design of _mix market_ app.
