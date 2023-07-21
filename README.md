@@ -11,6 +11,7 @@ You can check the full version on [my figma](https://www.figma.com/file/2r0d5ahf
 <br>
 There are few steps to take before we make the high fidelity design of <em>mix market</em> app.
 
+<br><br>
 
 ### The Problem
 
