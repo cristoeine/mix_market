@@ -13,9 +13,16 @@ There are few steps to take before we make the high fidelity design of <em>mix m
 
 
 ### The Problem
+
+---
+
 At this stage, my team and I brainstormed about what was our problem in this modern and developed era. We realized that in this modern and developed era, our people also build a business, a small and medium enterprise. However, because they usually built their business at home or in a place where it is hard to reach so we are going to be their bridge, from seller to user.
 
+<br><br>
 ### Also.. We built our icons too!
+
+---
+
 Since we want to make this project special, we built the icons, logo and many more.. you can check in the figma 
 
 <img src="mix%20market%20draw.png"  width="30%" height="20%">
